@@ -2,7 +2,7 @@
 
 > Pequena apresentação sobre mim, minhas skills e projetos em destaque
 
-Site: [Github Pages](https://vini54.github.io/Portfolio/)
+Site: [Github Pages](https://github.com/rahulsinghgaur/)
 
 ## Interface
 
